@@ -7,6 +7,3 @@ springmvc-spring-mybatis archetype
                         -DgroupId=your.group.id         \
                         -DartifactId=your.artifact.id   \
                         -Dversion=your.version
-
-
-For configuration, usage, version log please refer to[`official page`](http://rugal.github.io/development/2014/07/06/my-archetype-in-maven/).

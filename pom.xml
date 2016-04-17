@@ -21,9 +21,9 @@
     </developers>
 
     <scm>
-        <connection>scm:git:git@github.com:Rugal/springmvc-spring-hibernate.git</connection>
-        <url>git@github.com:Rugal/springmvc-spring-hibernate.git</url>
-        <developerConnection>scm:git:git@github.com:Rugal/springmvc-spring-hibernate.git</developerConnection>
+        <connection>scm:git:git@github.com:Rugal/springmvc-spring-mybatis.git</connection>
+        <url>git@github.com:Rugal/springmvc-spring-mybatis.git</url>
+        <developerConnection>scm:git:git@github.com:Rugal/springmvc-spring-mybatis.git</developerConnection>
     </scm>
 
     <licenses>
